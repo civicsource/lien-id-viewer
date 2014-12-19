@@ -1,0 +1,24 @@
+{
+  "name": "civicsource-lien-id-viewer",
+  "version": "1.0.0",
+  "main": "lien-id-viewer.js",
+  "description": "Given a lien model, will show the lien address and/or the filing place if address is not present.",
+  "keywords": [
+    "knockout",
+	"lien id",
+	"lien-id"
+  ],
+  "authors": [
+    "Archon Information Systems"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/civicsource/lien-id-viewer",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "knockout": "~3.2.0",
+    "jquery": "~1.10"
+  }
+}
