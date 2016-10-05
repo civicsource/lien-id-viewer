@@ -1,6 +1,6 @@
 {
   "name": "civicsource-lien-id-viewer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Knockout binding that, given a lien model, will show the lien address and/or the filing place.",
   "main": "lien-id-viewer.js",
   "repository": {
